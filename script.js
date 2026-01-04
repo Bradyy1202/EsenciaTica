@@ -1,5 +1,5 @@
 let paginaActual = 1;
-const ITEMS_POR_PAGINA = 20;
+const ITEMS_POR_PAGINA = 30;
 
 
 const catalogo = document.getElementById("catalogo");
