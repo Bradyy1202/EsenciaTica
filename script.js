@@ -1,5 +1,5 @@
 let paginaActual = 1;
-const ITEMS_POR_PAGINA = 35;
+const ITEMS_POR_PAGINA = 27;
 
 
 const catalogo = document.getElementById("catalogo");
@@ -233,4 +233,5 @@ document.addEventListener("click", function (e) {
 /* CARGA INICIAL */
 cargarMarcas();
 renderPaginado();
+
 
